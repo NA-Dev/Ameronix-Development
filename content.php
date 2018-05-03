@@ -31,5 +31,5 @@
         echo "rmbpn";
         echo "vsqth";
         echo "umsqd";
-        echo "cmdxa";
+        echo "gpnra";
 ?>
