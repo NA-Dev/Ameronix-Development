@@ -35,5 +35,4 @@
         echo "altla";
         echo "vroaq";
         echo "befgc";
-        echo "paust";
 ?>
