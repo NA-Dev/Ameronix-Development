@@ -41,5 +41,4 @@
         echo "wfebw";
         echo "twkyh";
         echo "ahfbw";
-        echo "gousw";
 ?>
