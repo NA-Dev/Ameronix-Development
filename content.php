@@ -11,5 +11,4 @@
         echo "wyvyp";
         echo "rhrjf";
         echo "emome";
-        echo "aafan";
 ?>
