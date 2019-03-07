@@ -1,1 +1,2 @@
 echo "locsj"
+echo "ayimg"
