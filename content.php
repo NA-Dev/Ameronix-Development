@@ -48,5 +48,5 @@
         echo "htdec";
         echo "cdrtt";
         echo "xdmdg";
-        echo "wlapp";
+        echo "mphnr";
 ?>
