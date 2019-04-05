@@ -20,5 +20,4 @@
         echo "gflon";
         echo "xudut";
         echo "yxycf";
-        echo "trsth";
 ?>
