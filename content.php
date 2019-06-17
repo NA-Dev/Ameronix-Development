@@ -3,5 +3,4 @@
         echo "mtcnb";
         echo "pulck";
         echo "orief";
-        echo "sxafy";
 ?>
