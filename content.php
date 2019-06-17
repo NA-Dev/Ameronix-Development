@@ -48,5 +48,4 @@
         echo "htdec";
         echo "cdrtt";
         echo "xdmdg";
-        echo "ywthe";
 ?>
