@@ -1,2 +1,2 @@
 console.log("dunoe")
-console.log("olqfm")
+console.log("soltr")
