@@ -1,3 +1,7 @@
+# ameronix-commits
+
+This repository represents every commit made during my work at Ameronix. Code is proprietary and contained in a private repository, so this repository only contains mock code matching the date, time, code language, and commit size of each of my actual commits. Code I created for Ameronix mainly included PHP and Javascript with React, GraphQl, Magento 1 and 2, Laravel, and Statamic.
+
 **This is a mock repository.** 
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
@@ -21,3 +25,4 @@ Considering the undeniably popularity of GitHub, developers that use other platf
 In more extreme cases, some developers decided to boycott this GitHub's lock-in system, and developed tools that can alter GitHub's contribution graph with fake commits: [Rockstar](https://github.com/avinassh/rockstar) and [Vanity text for GitHub](https://github.com/ihabunek/github-vanity) are good examples. 
 
 Instead, the aim of [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github) is to generate an overall realistic contributions overview by analysing real private repositories.
+mvcukyatrv wwedsxrgnk wcuyndxwgl kmsnuarjvf xmupgebewu exmhwmraya jwvnpteqrg
