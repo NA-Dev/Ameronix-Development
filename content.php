@@ -25,5 +25,4 @@
         echo "rsaca";
         echo "qibcx";
         echo "gnuhm";
-        echo "duffg";
 ?>
