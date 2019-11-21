@@ -90,5 +90,4 @@
         echo "vxrge";
         echo "ppofy";
         echo "mtbtg";
-        echo "lrikp";
 ?>
