@@ -24,5 +24,4 @@
         echo "vhoga";
         echo "rsaca";
         echo "nagnn";
-        echo "ywogv";
 ?>
