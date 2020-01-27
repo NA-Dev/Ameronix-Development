@@ -62,5 +62,4 @@
         echo "wganj";
         echo "fahrt";
         echo "dhpsf";
-        echo "jfktp";
 ?>
