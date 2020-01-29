@@ -3,5 +3,4 @@
         echo "mtcnb";
         echo "pulck";
         echo "rlwcj";
-        echo "bmyko";
 ?>
