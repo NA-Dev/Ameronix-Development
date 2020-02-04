@@ -64,5 +64,4 @@
         echo "dhpsf";
         echo "sgtca";
         echo "lbgox";
-        echo "mawsl";
 ?>
