@@ -63,5 +63,4 @@
         echo "fahrt";
         echo "dhpsf";
         echo "sgtca";
-        echo "lbgox";
 ?>
