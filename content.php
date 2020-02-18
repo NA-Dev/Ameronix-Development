@@ -6,5 +6,4 @@
         echo "iexkn";
         echo "ccxdk";
         echo "bogbf";
-        echo "wgmdj";
 ?>
