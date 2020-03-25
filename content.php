@@ -64,5 +64,4 @@
         echo "iiytf";
         echo "cdahf";
         echo "mrrfw";
-        echo "gfxhh";
 ?>
