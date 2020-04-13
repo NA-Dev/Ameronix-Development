@@ -68,5 +68,4 @@
         echo "ykojm";
         echo "wylbj";
         echo "cglkn";
-        echo "abneg";
 ?>
