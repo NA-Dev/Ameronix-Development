@@ -3,4 +3,3 @@ SELECT * from xpirx;
 SELECT * from biyue;
 SELECT * from komhi;
 SELECT * from fissh;
-SELECT * from swdwa;
