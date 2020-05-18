@@ -67,5 +67,4 @@
         echo "ccjns";
         echo "ykojm";
         echo "wylbj";
-        echo "pqpdh";
 ?>
