@@ -69,5 +69,4 @@
         echo "ajdmu";
         echo "vhsiu";
         echo "nkodd";
-        echo "ntdvm";
 ?>
