@@ -1,3 +1,7 @@
+During my work at Ameronix Corporation, I coded backend and frontend for various websites. The code is proprietary and owned by our clients, so I created this mock repository to document my commits without revealing the actual code. This represents actual dates, times, and languages for each commit.
+
+My work was primarily in PHP frameworks like Laravel and Statamic, plus frontend frameworks like React, Vue, flight.js, and Bootstrap.
+
 **This is a mock repository.** 
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
